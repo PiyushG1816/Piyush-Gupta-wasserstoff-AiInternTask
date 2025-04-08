@@ -1,7 +1,7 @@
 import requests
 
-GOOGLE_API_KEY = "AIzaSyBkJg5rXML6cyOy1j0ZJ9Qq63oqqwKpo38"
-SEARCH_ENGINE_ID = "9126f30768a934c0c"
+GOOGLE_API_KEY = "YOUR_KEY"
+SEARCH_ENGINE_ID = "YOUR_ID"
 def web_search(query, num_results=3):
     try:    
         url = f"https://www.googleapis.com/customsearch/v1"
