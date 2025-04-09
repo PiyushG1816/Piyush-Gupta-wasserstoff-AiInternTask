@@ -20,7 +20,7 @@ It also stores all email data in a local MySQL database for persistent context a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Personal-Email-Assistant.git
+git clone https://github.com/PiyushG1816/Piyush-Gupta-wasserstoff-AiInternTask.git
 cd Personal-Email-Assistant
 ```
 
