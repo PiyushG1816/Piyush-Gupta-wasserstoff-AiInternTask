@@ -7,5 +7,3 @@ beautifulsoup4
 mysql-connector-python
 transformers
 torch
-Flask
-gunicorn
